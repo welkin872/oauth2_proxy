@@ -42,3 +42,8 @@
 [[constraint]]
   branch = "master"
   name = "golang.org/x/crypto"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/bitly/oauth2_proxy"
+
